@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Uplerika
+- 👀 I’m interested in Frontend
+- 🌱 I’ll add something here soon
